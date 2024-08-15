@@ -1,0 +1,24 @@
+.wp-social-share {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.wp-social-share a {
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.wp-social-share-facebook {
+    background-color: #3b5998;
+}
+
+.wp-social-share-twitter {
+    background-color: #1da1f2;
+}
+
+.wp-social-share-linkedin {
+    background-color: #0077b5;
+}
