@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: PostShareZ
-Plugin URI: https://yourwebsite.com/wp-social-share
+Plugin URI: https://zahiduddin.com/postsharez
 Description: A simple plugin to add social share buttons to pages, posts, and products.
 Version: 1.0.0
 Author: Your Name
-Author URI: https://yourwebsite.com
+Author URI: https://zahiduddin.com
 Text Domain: postsharez
 Domain Path: /languages
 License: GPL2
